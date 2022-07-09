@@ -1,0 +1,6 @@
+{
+    "require": {
+        "fzaninotto/faker": "^1.9",
+        "thingengineer/mysqli-database-class": "dev-master"
+    }
+}
